@@ -1,0 +1,17 @@
+{
+  "name": "jenkins-tut",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha tests/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^6.2.0",
+    "supertest": "^4.0.2"
+  }
+}
